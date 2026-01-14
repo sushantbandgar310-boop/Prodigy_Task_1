@@ -2,7 +2,7 @@
 Temperature Conversion Software
 # Temperature Converter GUI 🌡️
 
-A simple Java Swing application to convert temperatures between:
+A simple Python Tkinter application to convert temperatures between:
 - Celsius
 - Fahrenheit
 - Kelvin
@@ -10,10 +10,7 @@ A simple Java Swing application to convert temperatures between:
 ## Features
 - Easy-to-use GUI
 - Supports three temperature units
-- Beginner-friendly Java Swing code
+- Beginner-friendly 
 
-## How to Run
-1. Compile:
-   javac TemperatureConverterGUI.java
-2. Run:
-   java TemperatureConverterGUI
+
+   
